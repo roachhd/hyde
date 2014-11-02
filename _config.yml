@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Hyded
 tagline:          'A Jekyll Site'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://katieball.me/hyde
-baseurl:          /hyde
+url:              http://roachhd.githib.io/hyde/
+baseurl:          http://roachhd.github.io/hyde/
 
 author:
   name:           'Katie Ball'
